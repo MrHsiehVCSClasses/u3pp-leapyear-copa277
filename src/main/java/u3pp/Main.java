@@ -4,8 +4,8 @@ import java.util.Scanner;
 
 /**
  * YOUR COMMENTS HERE
- * 
- * @author YOUR NAME HERE
+ * my code is gna go over the things once i sees stop first as the condition it will then stop and the cscanner will close then if its not stop then it wil use my past method to see ifits a year leat buand if it is year i will create an if statement to styep out the cocrrec thing according ly<3
+ * @author YOUR NAME HERE my nameis Cononr pak
  */
 
 class Main {
